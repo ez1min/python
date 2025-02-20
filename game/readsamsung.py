@@ -1,0 +1,2 @@
+import samsung
+result = samsung.
